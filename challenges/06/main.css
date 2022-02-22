@@ -2,6 +2,11 @@
 
 body {
     border: 5px solid red;
+    justify-content: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid red;
 }
 
 div {
